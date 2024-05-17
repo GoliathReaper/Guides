@@ -61,22 +61,22 @@ output
     "ok": true,
     "result": [
         {
-            "update_id": 893295108,
+            "update_id": 23423423,
             "message": {
                 "message_id": 2,
                 "from": {
-                    "id": 6549483636,
+                    "id": 234423423,
                     "is_bot": false,
-                    "first_name": "Yogesh"
+                    "first_name": "Goliath"
                 },
                 "chat": {
-                    "id": -4136951514, #ChatID
+                    "id": -3423423, #ChatID
                     "title": "Whatsup",
                     "type": "group",
                     "all_members_are_administrators": true
                 },
-                "date": 1711067781,
-                "text": "/my_id @NotifyMateBot",
+                "date": 2453423,
+                "text": "/my_id @NotifyBot",
                 "entities": [
                     {
                         "offset": 0,
